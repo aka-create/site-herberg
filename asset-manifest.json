@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/site-heberg/static/css/main.7937fca0.chunk.css",
+    "main.js": "/site-heberg/static/js/main.b061ba67.chunk.js",
+    "main.js.map": "/site-heberg/static/js/main.b061ba67.chunk.js.map",
+    "runtime-main.js": "/site-heberg/static/js/runtime-main.b070f02f.js",
+    "runtime-main.js.map": "/site-heberg/static/js/runtime-main.b070f02f.js.map",
+    "static/js/2.96f85d97.chunk.js": "/site-heberg/static/js/2.96f85d97.chunk.js",
+    "static/js/2.96f85d97.chunk.js.map": "/site-heberg/static/js/2.96f85d97.chunk.js.map",
+    "static/js/3.f58cc000.chunk.js": "/site-heberg/static/js/3.f58cc000.chunk.js",
+    "static/js/3.f58cc000.chunk.js.map": "/site-heberg/static/js/3.f58cc000.chunk.js.map",
+    "index.html": "/site-heberg/index.html",
+    "static/css/main.7937fca0.chunk.css.map": "/site-heberg/static/css/main.7937fca0.chunk.css.map",
+    "static/js/2.96f85d97.chunk.js.LICENSE.txt": "/site-heberg/static/js/2.96f85d97.chunk.js.LICENSE.txt",
+    "static/media/cave1.641294f5.jpg": "/site-heberg/static/media/cave1.641294f5.jpg",
+    "static/media/cave2.e34b8f35.jpg": "/site-heberg/static/media/cave2.e34b8f35.jpg",
+    "static/media/cave3.9ceba19f.jpg": "/site-heberg/static/media/cave3.9ceba19f.jpg",
+    "static/media/cave4.0443eaf4.jpg": "/site-heberg/static/media/cave4.0443eaf4.jpg",
+    "static/media/cave5.edde6858.jpg": "/site-heberg/static/media/cave5.edde6858.jpg",
+    "static/media/liqueur1.23813818.jpg": "/site-heberg/static/media/liqueur1.23813818.jpg",
+    "static/media/liqueur11.6c1bdc17.jpg": "/site-heberg/static/media/liqueur11.6c1bdc17.jpg",
+    "static/media/liqueur12.88ed1e4e.jpg": "/site-heberg/static/media/liqueur12.88ed1e4e.jpg",
+    "static/media/liqueur2.0f8cad2d.jpg": "/site-heberg/static/media/liqueur2.0f8cad2d.jpg",
+    "static/media/liqueur3.d2505452.png": "/site-heberg/static/media/liqueur3.d2505452.png",
+    "static/media/liqueur4.05016e2a.jpg": "/site-heberg/static/media/liqueur4.05016e2a.jpg",
+    "static/media/liqueur5.5a617c47.jpg": "/site-heberg/static/media/liqueur5.5a617c47.jpg",
+    "static/media/liqueur6.059489d0.jpg": "/site-heberg/static/media/liqueur6.059489d0.jpg",
+    "static/media/liqueur7.be764895.png": "/site-heberg/static/media/liqueur7.be764895.png",
+    "static/media/liqueur9.f18a7d49.jpg": "/site-heberg/static/media/liqueur9.f18a7d49.jpg",
+    "static/media/logo.6ce24c58.svg": "/site-heberg/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b070f02f.js",
+    "static/js/2.96f85d97.chunk.js",
+    "static/css/main.7937fca0.chunk.css",
+    "static/js/main.b061ba67.chunk.js"
+  ]
+}
